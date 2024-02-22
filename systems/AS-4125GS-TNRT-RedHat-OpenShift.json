@@ -33,6 +33,6 @@
         "cuda_driver_version": "525.105.17",
         "cuda_version": "12.0"
     },
-  "operating_system"                  : "Ubuntu 20.04.3 LTS",
+  "operating_system"                  : "RHEL 9.2",
   "sw_notes"                          : ""
 }
